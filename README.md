@@ -1,2 +1,2 @@
 # Dynamically-created-delete-button
-Created with CodeSandbox
+https://codingissimple.com/event-binding-on-dynamically-created-elements-in-javascript/

@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+/* Styles for list items */
+li {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+/* Styles for delete buttons */
+.delete-button {
+  background-color: red;
+  color: white;
+  padding: 5px 10px;
+  margin-left: 10px;
+  border: none;
+  cursor: pointer;
+}
